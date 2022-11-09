@@ -1,0 +1,5 @@
+{
+  "appService.zipIgnorePattern": ["node_modules{,/**}", ".vscode{,/**}"],
+  "appService.defaultWebAppToDeploy": "/subscriptions/a1eecc09-6092-489e-b2a6-20d561715499/AppServices/subscriptions/a1eecc09-6092-489e-b2a6-20d561715499/resourceGroups/rg-weather-app/providers/Microsoft.Web/sites/weather-ui",
+  "appService.deploySubpath": "."
+}
